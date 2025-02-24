@@ -1,19 +1,20 @@
-# awesome-3d-medial-axis
+# Awesome 3D Medial Axis
 A compilation on Medial Axis/Skeleton and its applications, comprising academic papers, as well as some valuable open-source projects. 
 
 The focus is primarily on three-dimensional graphics, particularly work related to CAD geometric processing.
 
 I will divide these works into two categories: **Medial Axis Computation Methods** and **Applications**.
+
 The **Medial Axis Computation Methods** will be classified by their publication years, while the **Applications** will be categorized by their application scenarios.
 
-I will update it regularly.
+:blush: I will update it regularly.
 
 # Medial Axis Computation Methods
 ## 2024
 - Ningna Wang, Hui Huang, Shibo Song, Bin Wang, Wenping Wang, Xiaohu Guo. *"MATTopo: Topology-preserving Medial Axis Transform with Restricted Power Diagram"*. 
   - SIGGRAPH Asia 2024 
   - [[Paper](https://arxiv.org/abs/2403.18761)][[Project Page](https://ningnawang.github.io/projects/2024_mattopo/)][[Code](https://github.com/ningnawang/MATTopo)]
-- Minghao Guo, Bohan Wang, Wojciech Matusik. *"Dynamic Skeletonization Via Variational Medial Axis Sampling"*. 
+- Minghao Guo, Bohan Wang, Wojciech Matusik. *"Medial Skeletal Diagram: A Generalized Medial Axis Approach for 3D Shape Representation"*. 
   - TOG 2024 
   - [[Paper](https://dl.acm.org/doi/10.1145/3687964)][[Project Page](https://gmh14.github.io/medial-skeletal-diagram/)][[Code](https://github.com/bohanwang/MSD)]
 - Qijia Huang, Pierre Kraemer, Sylvain Thery, Dominique Bechmann. *"Dynamic Skeletonization Via Variational Medial Axis Sampling"*. 
@@ -40,7 +41,14 @@ I will update it regularly.
 - Paul Viville, Pierre Kraemer and Dominique Bechmann. *"Meso-Skeleton Guided Hexahedral Mesh Design"*. 
   - CGF 2023 
   - [[Paper](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.14932)][[Code](https://github.com/cgogn/CGoGN_3)]
+- Skeleton-driven Adaptive Hexahedral Meshing of Tubular Shape. *"Meso-Skeleton Guided Hexahedral Mesh Design"*. 
+  - CGF 2016 
+  - [[Paper](https://onlinelibrary.wiley.com/doi/10.1111/cgf.13021)]
 ## Shape Segmentation
 - Cheng Lin, Lingjie Liu, Changjian Li, Leif Kobbelt, Bin Wang, Shiqing Xin, Wenping Wang. *"SEG-MAT: 3D Shape Segmentation Using Medial Axis Transform"*. 
   - TVCG 2020 
   - [[Paper](https://arxiv.org/pdf/2010.11488)][[Project Page](https://enigma-li.github.io/projects/segmat/SEG-MAT.html)][[Code](https://github.com/clinplayer/SEG-MAT)]
+## Quad Layout
+- Francesco Usai, Marco Livesu, Enrico Puppo, Marco Tarini, Riccardo Scateni. *"Extraction of the Quad Layout of a Triangle Mesh Guided by its Curve-Skeleton"*. 
+  - TOG 2015 
+  - [[Paper](https://dl.acm.org/doi/abs/10.1145/2809785)][[Project Page](http://pers.ge.imati.cnr.it/livesu/papers/ULPTS15/ULPTS15.html)]
