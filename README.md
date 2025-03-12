@@ -33,6 +33,9 @@ The **Computation Methods** will be classified by their publication years, while
   - [[Paper](https://arxiv.org/pdf/2401.12946.pdf)][[Project Page](https://frank-zy-dou.github.io/projects/CoverageAxis++/index.html)][[Code](https://github.com/Frank-ZY-Dou/Coverage_Axis)]
 
 ## 2023
+- Mattéo Clémot, Julie Digne. *"Neural skeleton: implicit neural representation away from the surface"*. 
+  - SMI 2023
+  - [[Paper](https://www.sciencedirect.com/science/article/pii/S0097849323001085)][[Code](https://github.com/MClemot/SkeletonLearning)]
 - Mengyuan Ge, Junfeng Yao, Baorong Yang, Ningna Wang, Zhonggui Chen, Xiaohu Guo. *"Point2MM: Learning medial mesh from point clouds"*. 
   - C&G 2023 
   - [[Paper](https://www.sciencedirect.com/science/article/pii/S0097849323001498?via%3Dihub)]
@@ -105,3 +108,8 @@ The **Computation Methods** will be classified by their publication years, while
 - Jianwei Hu, Bin Wang, Lihui Qian, Yiling Pan, Xiaohu Guo, Lingjie Liu, Wenping Wang. *"MAT-Net: Medial Axis Transform Network for 3D Object Recognition"*. 
   - IJCAI 2019 
   - [[Paper](https://www.ijcai.org/proceedings/2019/0109.pdf)][[Code](https://github.com/JianweiHu94/MAT-NET)]
+
+## Point Cloud Sampling
+- Cheng Wen, Baosheng Yu, Dacheng Tao. *"Learnable Skeleton-Aware 3D Point Cloud Sampling"*. 
+  - CVPR 2023 
+  - [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wen_Learnable_Skeleton-Aware_3D_Point_Cloud_Sampling_CVPR_2023_paper.pdf)][[Code](https://github.com/wenc13/Skeleton-Aware-Sampling)]
