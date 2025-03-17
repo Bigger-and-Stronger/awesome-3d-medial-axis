@@ -14,6 +14,9 @@ The **Computation Methods** will be classified by their publication years, while
 - Pengfei Wang, Jiantao Song, Lei Wang, Shiqing Xin, Dong-Ming Yan, Shuangmin Chen, Changhe Tu, Wenping Wang. *"Towards Voronoi Diagrams of Surface Patches"*. 
   - TVCG 2025
   - [[Paper](https://ieeexplore.ieee.org/document/10845125)]
+- Mengyuan Ge, Junfeng Yao, Baorong Yang, Ningna Wang, Zhonggui Chen, Xiaohu Guo. *"RBF-MAT: Computing Medial Axis Transform from Point Clouds by Optimizing Radial Basis Functions"*. 
+  - CAGD 2025
+  - [[Paper](https://www.sciencedirect.com/science/article/pii/S016783962500010X)]
 
 ## 2024
 - Ningna Wang, Hui Huang, Shibo Song, Bin Wang, Wenping Wang, Xiaohu Guo. *"MATTopo: Topology-preserving Medial Axis Transform with Restricted Power Diagram"*. 
@@ -48,6 +51,16 @@ The **Computation Methods** will be classified by their publication years, while
   - EG 2022 
   - [[Paper](https://arxiv.org/abs/2110.00965)][[Project Page](https://frank-zy-dou.github.io/projects/CoverageAxis/index.html)][[Code](https://github.com/Frank-ZY-Dou/Coverage_Axis)]
 
+## 2021
+- Cheng Lin, Changjian Li, Yuan Liu, Nenglun Chen, Yi-King Choi, Wenping Wang. *"Point2Skeleton: Learning Skeletal Representations from Point Clouds"*. 
+  - CVPR 2021
+  - [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_Point2Skeleton_Learning_Skeletal_Representations_from_Point_Clouds_CVPR_2021_paper.pdf)][[Project Page](https://enigma-li.github.io/projects/point2skeleton/point2skeleton.html)][[Code](https://github.com/clinplayer/Point2Skeleton)]
+
+## 2019
+- Hongxing Qin, Jia Han, Ning Li, Hui Huang, Baoquan Chen. *"Mass-driven Topology-aware Curve Skeleton Extraction from Incomplete Point Clouds"*. 
+  - TVCG 2019
+  - [[Paper](https://ieeexplore.ieee.org/abstract/document/8664178)][[Project Page](https://vcc.tech/research/2020/MassSkel)]
+
 ## 2018
 - Yajie Yan, David Letscher, Tao Ju. *"Voxel Cores: Efficient, robust, and provably good approximation of 3D medial axes"*. 
   - SIGGRAPH 2018
@@ -71,6 +84,11 @@ The **Computation Methods** will be classified by their publication years, while
 - Andrea Tagliasacchi, Ibraheem Alhashim, Matt Olson, Hao Zhang. *"Mean Curvature Skeletons"*. 
   - SGP 2012 
   - [[Paper](https://projet.liris.cnrs.fr/imagine/pub/proceedings/SGP-2012/pdf/v31i5pp1735-1744.pdf)][[Code](https://github.com/taiya/starlab-mcfskel)][[CGAL Document](https://doc.cgal.org/latest/Surface_mesh_skeletonization/index.html)]
+
+## 2009
+- Andrea Tagliasacchi, Hao Zhang, Daniel Cohen-Or. *"Curve Skeleton Extraction from Incomplete Point Cloud"*. 
+  - SIGGRAPH 2009
+  - [[Paper](https://dl.acm.org/doi/abs/10.1145/1576246.1531377)][[Code](https://github.com/taiya/rosa)]
 
 # Applications
 ## Hex-mesh Generation
