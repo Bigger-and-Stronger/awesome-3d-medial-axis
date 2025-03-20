@@ -34,8 +34,14 @@ The **Computation Methods** will be classified by their publication years, while
 - Zimeng Wang, Zhiyang Dou, Rui Xu, Cheng Lin, Yuan Liu, Xiaoxiao Long, Shiqing Xin, Lingjie Liu, Taku Komura, Xiaoming Yuan, Wenping Wang. *"Coverage Axis++: Efficient Inner Point Selection for 3D Shape Skeletonization"*. 
   - SGP 2024 
   - [[Paper](https://arxiv.org/pdf/2401.12946.pdf)][[Project Page](https://frank-zy-dou.github.io/projects/CoverageAxis++/index.html)][[Code](https://github.com/Frank-ZY-Dou/Coverage_Axis)]
+- Bingchuan Li, Yuping Ye, Junfeng Yao, Yong Yang, Weixing Xie, Mengyuan Ge. *"A detail-preserving method for medial mesh computation in triangular meshes"*. 
+  - GM 2024 
+  - [[Paper](https://www.sciencedirect.com/science/article/pii/S1524070324000249)]
 
 ## 2023
+- Jianwei Hu, Ningna Wang, Baorong Yang, Gang Chen, Xiaohu Guo, and Bin Wang. *"S3DS: Self-supervised Learning of 3D Skeletons from Single View Images"*. 
+  - ACM MM 2023 
+  - [[Paper](https://dl.acm.org/doi/10.1145/3581783.3612204)][[Code](https://github.com/JianweiHu94/S3DS)]
 - Mattéo Clémot, Julie Digne. *"Neural skeleton: implicit neural representation away from the surface"*. 
   - SMI 2023
   - [[Paper](https://www.sciencedirect.com/science/article/pii/S0097849323001085)][[Code](https://github.com/MClemot/SkeletonLearning)]
@@ -102,6 +108,14 @@ The **Computation Methods** will be classified by their publication years, while
   - CGF 2016 
   - [[Paper](https://onlinelibrary.wiley.com/doi/10.1111/cgf.13021)]
 
+## Shape Segmentation
+- Cheng Lin, Lingjie Liu, Changjian Li, Leif Kobbelt, Bin Wang, Shiqing Xin, Wenping Wang. *"SEG-MAT: 3D Shape Segmentation Using Medial Axis Transform"*. 
+  - TVCG 2020 
+  - [[Paper](https://arxiv.org/pdf/2010.11488)][[Project Page](https://enigma-li.github.io/projects/segmat/SEG-MAT.html)][[Code](https://github.com/clinplayer/SEG-MAT)]
+- Dennie Reniers, Alexandru Telea. *"Part‐type Segmentation of Articulated Voxel‐Shapes using the Junction Rule"*. 
+  - CGF 2008
+  - [[Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2008.01331.x)]
+
 ## Surface Reconstruction
 - Nina Amenta, SungheeChoi Ravi, Krishna Kolluri. *"The Power Crust"*. 
   - ACM Symposium on Solid Modeling 2001
@@ -111,11 +125,6 @@ The **Computation Methods** will be classified by their publication years, while
 - Francesco Usai, Marco Livesu, Enrico Puppo, Marco Tarini, Riccardo Scateni. *"Extraction of the Quad Layout of a Triangle Mesh Guided by its Curve-Skeleton"*. 
   - TOG 2015 
   - [[Paper](https://dl.acm.org/doi/abs/10.1145/2809785)][[Project Page](http://pers.ge.imati.cnr.it/livesu/papers/ULPTS15/ULPTS15.html)]
-
-## Shape Segmentation
-- Cheng Lin, Lingjie Liu, Changjian Li, Leif Kobbelt, Bin Wang, Shiqing Xin, Wenping Wang. *"SEG-MAT: 3D Shape Segmentation Using Medial Axis Transform"*. 
-  - TVCG 2020 
-  - [[Paper](https://arxiv.org/pdf/2010.11488)][[Project Page](https://enigma-li.github.io/projects/segmat/SEG-MAT.html)][[Code](https://github.com/clinplayer/SEG-MAT)]
   
 ## Collision Detection
 - Xingxin Li, Shibo Song, Junfeng Yao, Hanyin Zhang, Rongzhou Zhou, Qingqi Hong. *"Efficient collision detection using hybrid medial axis transform and BVH for rigid body simulation"*. 
@@ -131,3 +140,4 @@ The **Computation Methods** will be classified by their publication years, while
 - Cheng Wen, Baosheng Yu, Dacheng Tao. *"Learnable Skeleton-Aware 3D Point Cloud Sampling"*. 
   - CVPR 2023 
   - [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wen_Learnable_Skeleton-Aware_3D_Point_Cloud_Sampling_CVPR_2023_paper.pdf)][[Code](https://github.com/wenc13/Skeleton-Aware-Sampling)]
+
