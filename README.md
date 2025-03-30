@@ -82,6 +82,9 @@ The **Computation Methods** will be classified by their publication years, while
 - Pan Li, Bin Wang, Feng Sun, Xiaohu Guo, Caiming Zhang, Wenping Wang. *"Q-MAT: Computing Medial Axis Transform by Quadratic Error Minimization"*. 
   - TOG 2015 
   - [[Paper](https://dl.acm.org/doi/10.1145/2753755)][[Project Page](https://binwangthss.github.io/qmat/qmat.html)][[Code](https://binwangthss.github.io/qmat/qmat_x64_sourcecode.rar)]
+- Yang Zhou, Kangxue Yin, Hui Huang, Hao Zhang, Minglun Gong, Daniel Cohen-Or. *"Generalized cylinder decomposition"*. 
+  - TOG 2015 
+  - [[Paper](https://www2.cs.sfu.ca/~haoz/pubs/zhou_siga15_gcd.pdf)][[Project Page](https://vcc.tech/research/2015/GCD)][[Code](https://github.com/Blobixx/GCD)]
 
 ## 2012
 - Jaehwan Ma, Sang Won Bae, Sunghee Choi. *"3D medial axis point approximation using nearest neighbors and the normal field"*. 
@@ -104,9 +107,15 @@ The **Computation Methods** will be classified by their publication years, while
 - Paul Viville, Pierre Kraemer and Dominique Bechmann. *"Meso-Skeleton Guided Hexahedral Mesh Design"*. 
   - CGF 2023 
   - [[Paper](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.14932)][[Code](https://github.com/cgogn/CGoGN_3)]
+- Marco Livesu, Marco Attene, Giuseppe Patané, Michela Spagnuolo. *"Explicit cylindrical maps for general tubular shapes"*. 
+  - CAD 2017 
+  - [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0010448517300611)]
 - Marco Livesu, Alessandro Muntoni, Enrico Puppo, Riccardo Scateni. *"Skeleton-driven Adaptive Hexahedral Meshing of Tubular Shape"*. 
   - CGF 2016 
   - [[Paper](https://onlinelibrary.wiley.com/doi/10.1111/cgf.13021)]
+- William Roshan Quadros. *"LayTracks3D: A new approach for meshing general solids using medial axis transform"*. 
+  - CAD 2016 
+  - [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0010448515001244)]
 
 ## Shape Segmentation
 - Cheng Lin, Lingjie Liu, Changjian Li, Leif Kobbelt, Bin Wang, Shiqing Xin, Wenping Wang. *"SEG-MAT: 3D Shape Segmentation Using Medial Axis Transform"*. 
