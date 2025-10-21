@@ -11,6 +11,9 @@ The **Computation Methods** will be classified by their publication years, while
 
 # Computation Methods
 ## 2025
+- Ningna Wang, Rui Xu, Yibo Yin, Zichun Zhong, Taku Komura, Wenping Wang, and Xiaohu Guo. *"MATStruct: High-quality Medial Mesh Computation via Structure-aware Variational Optimization"*. 
+  - SIGGRAPH Asia 2025 
+  - [[Paper](https://arxiv.org/pdf/2510.10751)][[Project Page](https://ningnawang.github.io/projects/2025_matstruct/)][[Code](https://github.com/ningnawang/MATStruct)]
 - Pengfei Wang, Jiantao Song, Lei Wang, Shiqing Xin, Dong-Ming Yan, Shuangmin Chen, Changhe Tu, Wenping Wang. *"Towards Voronoi Diagrams of Surface Patches"*. 
   - TVCG 2025
   - [[Paper](https://ieeexplore.ieee.org/document/10845125)]
@@ -26,10 +29,10 @@ The **Computation Methods** will be classified by their publication years, while
   - TOG 2024 
   - [[Paper](https://dl.acm.org/doi/10.1145/3687964)][[Project Page](https://gmh14.github.io/medial-skeletal-diagram/)][[Code](https://github.com/bohanwang/MSD)]
 - Dmitry Petrov, Pradyumn Goyal, Vikas Thamizharasan, Vladimir G. Kim, Matheus Gadelha, Melinos Averkiou, Siddhartha Chaudhuri, Evangelos Kalogerakis. *"GEM3D: Generative Medial Abstractions for 3D Shape Synthesis"*. 
-  - SIGGRAPH Asia 2024 Conference Proceedings
+  - SIGGRAPH Asia 2024 
   - [[Paper](https://dl.acm.org/doi/10.1145/3641519.3657415)][[Project Page](https://lodurality.github.io/GEM3D/)][[Code](https://github.com/lodurality/GEM3D_paper_code)]
 - Qijia Huang, Pierre Kraemer, Sylvain Thery, Dominique Bechmann. *"Dynamic Skeletonization Via Variational Medial Axis Sampling"*. 
-  - SIGGRAPH Asia 2024 Conference Proceedings
+  - SIGGRAPH Asia 2024 
   - [[Paper](https://huang46u.github.io/VMAS/static/pdfs/Dynamic_Skeletonization_via_Variational_Medial_Axis_Sampling.pdf)][[Project Page](https://huang46u.github.io/VMAS/)][[Code](https://github.com/huang46u/VMAS-code)]
 - Zimeng Wang, Zhiyang Dou, Rui Xu, Cheng Lin, Yuan Liu, Xiaoxiao Long, Shiqing Xin, Lingjie Liu, Taku Komura, Xiaoming Yuan, Wenping Wang. *"Coverage Axis++: Efficient Inner Point Selection for 3D Shape Skeletonization"*. 
   - SGP 2024 
@@ -118,6 +121,9 @@ The **Computation Methods** will be classified by their publication years, while
   - [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0010448515001244)]
 
 ## Shape Segmentation
+- Ruijie Zou, Maodong Pan, Ye Zheng, Falai Chen, Weihua Tong. *"MAT-Parameterization: Volumetric Multi-patch Parameterizations of Complex Domains for Isogeometric Analysis Using MAT-based Decomposition"*
+  - CMAME 2025
+  - [[Paper](https://www.sciencedirect.com/science/article/pii/S0045782525004591)]
 - Cheng Lin, Lingjie Liu, Changjian Li, Leif Kobbelt, Bin Wang, Shiqing Xin, Wenping Wang. *"SEG-MAT: 3D Shape Segmentation Using Medial Axis Transform"*. 
   - TVCG 2020 
   - [[Paper](https://arxiv.org/pdf/2010.11488)][[Project Page](https://enigma-li.github.io/projects/segmat/SEG-MAT.html)][[Code](https://github.com/clinplayer/SEG-MAT)]
